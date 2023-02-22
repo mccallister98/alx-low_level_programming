@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
  * print_times_table - Prints the n times_table.
  *
  * @n: Argument to be passed.
  *
  */
+
 void print_times_table(int n)
 {
 	int i, j, r = 0;
